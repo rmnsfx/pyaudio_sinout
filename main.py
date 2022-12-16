@@ -4,9 +4,6 @@ import time
 import pyaudio
 import math
 
-# b, a = butter(3, 10000, fs=25600, btype='lowpass', analog=False)
-# print(a, b, sep="\n")
-
 # for i in range(p.get_device_count()):
 #    dev = p.get_device_info_by_index(i)
 #    print((i,dev['name'],dev['maxInputChannels']))
